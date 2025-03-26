@@ -1,5 +1,5 @@
 #  **CalmNest 🤍** 
-###✨ Where your mind finds comfort ✨
+### ✨ Where your mind finds comfort ✨
 ## Overview 
 
 This is a chatbot designed to provide mental health support to students by engaging in meaningful conversations with users. It uses Natural Language Processing (NLP) and Deep Learning models,LSTM to capture dependencies and to classify user intents and generate appropriate responses. The chatbot is built with TensorFlow, Keras, and Streamlit for a smooth and interactive user experience.
