@@ -33,7 +33,7 @@ This is a chatbot designed to provide mental health support to students by engag
 
 2. Install Required Libraries
 
-       pip install streamlit pandas numpy matplotlib scikit-learn tensorflow joblib pickle
+       pip install -r requirements.txt
 
 3. Run the Streamlit App
 
