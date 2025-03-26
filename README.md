@@ -44,13 +44,13 @@ This will launch the calmnest(chatbot for mental health support) web app.
 ### 📧 For any queries, contact me at [anughnakandimalla11@gmail.com](anughnakandimalla11@gmail.com).
 
 ## Tools & Technologies Used
-- ✦ Programming: Python
-- ✦ Data Processing📊: Pandas, NumPy
-- ✦ Data Visualization: Matplotlib
-- ✦ Machine Learning🤖: LSTM, Embedding Layer, Dense Layer
-- ✦ Natural Language Processing🗣️: TensorFlow/Keras, NLTK
-- ✦ Model Persistence: Pickle
-- ✦ Web App Framework: Streamlit 🌐
+-  Programming: Python
+-  Data Processing📊: Pandas, NumPy
+-  Data Visualization: Matplotlib
+-  Machine Learning🤖: LSTM, Embedding Layer, Dense Layer
+-  Natural Language Processing🗣️: TensorFlow/Keras, NLTK
+-  Model Persistence: Pickle
+-  Web App Framework: Streamlit 🌐
 
 
 ## 👩‍💻Author
