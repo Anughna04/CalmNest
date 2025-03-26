@@ -1,0 +1,85 @@
+{
+    "intents": [
+    {
+        "tag": "greetings",
+        "input": ["Hello","Hi","Hey there","Good morning","Good evening"],
+        "responses": [
+            "Hello! How can I assist you today?",
+            "Hi there! How are you feeling?",
+            "Hey! What’s on your mind?"
+        ]
+    },
+    {
+        "tag": "self_motivation",
+        "input": ["I need motivation","Can you motivate me?","Give me some self-motivation"],
+        "responses": [
+            "You are capable of amazing things! Keep pushing forward, and don't let setbacks define you. Every step you take brings you closer to success!",
+            "Believe in yourself! Every challenge is an opportunity to grow. Keep going, and never give up on your dreams!"]
+    },
+    {
+        "tag": "anxiety_management",
+        "input": ["I'm feeling anxious","How do I deal with anxiety?","Tips for managing anxiety"],
+        "responses": [
+            "1. Take deep breaths and focus on your breathing.\n2. Engage in activities like meditation or light exercise.\n3. Talk to someone you trust about how you're feeling."]
+    },
+    {
+        "tag": "time_management",
+        "input": ["How can I manage my time better?","Tips for time management","Help me with time management"],
+        "responses": [
+            "1. Prioritize your tasks, set clear goals.\n2. Break them down into manageable steps.\n3. Avoid procrastination by setting deadlines and staying organized!"]
+    },
+    {
+        "tag": "home_sickness",
+        "input": ["I'm feeling homesick","I miss my home","How do I deal with homesickness?"],
+        "responses": [
+            "Homesickness is natural. Stay connected with loved ones, engage in activities you enjoy, and build a routine to help you adjust.",
+            "Try exploring new hobbies, making new friends, and keeping reminders of home to feel more connected."]
+    },
+    {
+        "tag": "academic_stress",
+        "input": ["I'm stressed about my studies","How do I handle academic pressure?","Studying is overwhelming"],
+        "responses": [
+            "Break your study sessions into smaller parts, take breaks, and don't hesitate to seek help when needed. Balance is key to success!",
+            "Create a study plan, stay organized, and reward yourself for small achievements to stay motivated."]
+    },
+    {
+        "tag": "exams",
+        "input": ["I can't handle my workload", "My assignments are piling up", "I’m failing my exams", "I’m not able to concentrate on my studies"],
+        "responses": [
+            "Academic pressure can be tough. Have you tried breaking tasks into smaller goals?",
+            "Time management can help. Would you like some tips on scheduling your work?",
+            "You're not alone in this! Seeking help from professors or study groups could be useful."]
+    },
+    {
+        "tag": "depression_sadness",
+        "input": ["I feel so down", "I don’t feel like doing anything", "I’m struggling with sadness", "I feel empty", "Nothing makes me happy anymore"],
+        "responses": [
+            "I hear you. It’s okay to feel this way. You are not alone, and talking to someone might help.",
+            "I’m here to listen. Have you considered speaking to a counselor or a trusted friend?",
+            "You're important and valued. Engaging in small activities you enjoy might help.",
+            "You're not alone. Talk to someone you trust, engage in activities that bring you joy, and remember that brighter days are ahead.",
+            "Practice self-care, focus on small positive moments, and seek professional help if needed."]
+    },
+    {
+        "tag": "peer_pressure",
+        "input": ["I'm struggling with peer pressure","How do I handle peer pressure?","Dealing with social pressure is hard"],
+        "responses": [
+            "Stay true to yourself and your values. Surround yourself with supportive people who respect your decisions.",
+            "Learn to say no, set boundaries, and prioritize your well-being over external expectations."]
+    },
+    {
+        "tag": "career_goals",
+        "input": ["How do I set career goals?","I need career advice","Help me with career planning"],
+        "responses": [
+            "Set clear and realistic goals, develop necessary skills, and seek guidance from mentors. Stay persistent, and opportunities will come your way!",
+            "Explore different career options, gain relevant experience, and stay adaptable to changes in the industry."]
+    },
+    {
+        "tag": "goodbye",
+        "input": ["Thank you for your help","Bye","Take care"],
+        "responses": [
+            "You're always welcome! Take care and stay positive! 😊",
+            "Glad I could help! Wishing you all the best!"]
+    }
+    ]
+}
