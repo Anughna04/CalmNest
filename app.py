@@ -1,3 +1,4 @@
+#import the required libraries
 import streamlit as st
 import pickle
 import numpy as np
@@ -37,12 +38,6 @@ with col1:
 
 with col2:
     st.markdown("<h3 style='margin-bottom: 1px;'></h3>", unsafe_allow_html=True)
-    #st.markdown("<h1 style='margin-top: 0px;color: gold; text-shadow: 2px 2px 10px rgba(255, 215, 0, 0.8) margin-left: 50px;'>CalmNest 🤍</h1>", unsafe_allow_html=True)
-    #st.markdown("""
-    #       -webkit-background-clip: text;
-    #       -webkit-text-fill-color: transparent;">
-    #    CalmNest 🤍
-    #    </h1>""", unsafe_allow_html=True)
     st.markdown("""
     <h1 style='text-align: center; color: #87CEEB; text-shadow: 2px 2px 15px rgba(135, 206, 235, 0.8);'>
         CalmNest 🤍
